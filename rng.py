@@ -2,7 +2,7 @@ import random as r
 
 import time as t
 
-rewards = [100, 200, 300,]
+rewards = [100, 200, 300]
                                                                                     #weights_for_7_items=[40, 20, 13, 10, 6, 4, 3]
 loop = True
 
